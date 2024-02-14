@@ -1,0 +1,129 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders FolderNew file code 1`] = `
+<div>
+  <div
+    class="folder-item"
+  >
+    <div
+      class="folder"
+    >
+      <span>
+        ⏬
+      </span>
+      <div
+        class="name-disp"
+        id="1"
+      >
+        📁
+        test
+      </div>
+    </div>
+    <div
+      class="file file-item"
+    >
+      <div
+        class="name-disp"
+        id="2"
+        tabindex="-1"
+      >
+        🖥
+        style.css
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`renders FolderNew file images 1`] = `
+<div>
+  <div
+    class="folder-item"
+  >
+    <div
+      class="folder"
+    >
+      <span>
+        ⏬
+      </span>
+      <div
+        class="name-disp"
+        id="1"
+      >
+        📁
+        test
+      </div>
+    </div>
+    <div
+      class="file file-item"
+    >
+      <div
+        class="name-disp"
+        id="2"
+        tabindex="-1"
+      >
+        📷
+        image.webp
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`renders FolderNew file others 1`] = `
+<div>
+  <div
+    class="folder-item"
+  >
+    <div
+      class="folder"
+    >
+      <span>
+        ⏬
+      </span>
+      <div
+        class="name-disp"
+        id="1"
+      >
+        📁
+        test
+      </div>
+    </div>
+    <div
+      class="file file-item"
+    >
+      <div
+        class="name-disp"
+        id="2"
+        tabindex="-1"
+      >
+        📄
+        notes.txt
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`renders FolderNew folder 1`] = `
+<div>
+  <div
+    class="folder-item"
+  >
+    <div
+      class="folder"
+    >
+      <span>
+        ⏬
+      </span>
+      <div
+        class="name-disp"
+        id="1"
+      >
+        📁
+        test
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders RightMenu file 1`] = `
+<div>
+  <div
+    class="right-menu-main"
+    id="right-menu-item"
+    tabindex="-1"
+  >
+    <div>
+      <div
+        class="menu-item"
+      >
+        Copy ( only logs to console)
+      </div>
+      <div
+        class="menu-item"
+      >
+        Delete
+      </div>
+      <div
+        class="menu-item-last"
+      >
+        Rename
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`renders RightMenu folder 1`] = `
+<div>
+  <div
+    class="right-menu-main"
+    id="right-menu-item"
+    tabindex="-1"
+  >
+    <div>
+      <div
+        class="menu-item"
+      >
+        Add New Folder
+      </div>
+      <div
+        class="menu-item"
+      >
+        Add New File
+      </div>
+      <div
+        class="menu-item"
+      >
+        Copy ( only logs to console)
+      </div>
+      <div
+        class="menu-item"
+      >
+        Delete
+      </div>
+      <div
+        class="menu-item-last"
+      >
+        Rename
+      </div>
+    </div>
+  </div>
+</div>
+`;
